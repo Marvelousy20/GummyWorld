@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import '~tailwindcss/base';
+@import '~tailwindcss/components';
+@import '~tailwindcss/utilities';
+
+@import './components/general.scss';
+@import './components/minting-dapp.scss';
+
+
+@font-face {
+  font-family: "Coffee Extra";
+  font-display: swap;
+  src: url('../asset/fonts/CoffeeExtra.woff');
+}
